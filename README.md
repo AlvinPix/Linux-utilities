@@ -1,6 +1,6 @@
 ## linux-utilities
 
-![Imagen](https://i.blogs.es/11abb8/650_1000_gnu-linux/450_1000.png)
+![Imagen](https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg)
 
 > In the world of technology,
 a system rises up bravely,
