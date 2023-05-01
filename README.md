@@ -1,4 +1,4 @@
-## linux-utilities
+## Linux-utilities
 
 ![Imagen](https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg)
 
