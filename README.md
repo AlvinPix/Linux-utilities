@@ -2,8 +2,7 @@
 
 ![Imagen](https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg)
 
----
-> In the world of technology,
+> __In the world of technology,
   a system rises up bravely,
   It's Linux, open source and uncensored,
   that offers users freedom and autonomy.
@@ -18,5 +17,4 @@
   So if you want to explore new horizons,
   leave traditional systems behind
   and embrace Linux with all your mountains,
-  to discover a world of radical possibilities.
----
+  to discover a world of radical possibilities.__
