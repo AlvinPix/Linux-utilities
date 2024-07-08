@@ -1,0 +1,27 @@
+# :: colors.toml ::
+
+[colors]
+primary.background = "#00001C"
+primary.foreground = "#c5dce9"
+cursor.text = "#c5dce9"
+cursor.cursor = "#c5dce9"
+
+[colors.normal]
+black = "#00001C"
+red = "#5185BA"
+green = "#12A4E0"
+yellow = "#67AAD6"
+blue = "#28CAEF"
+magenta = "#64CEEE"
+cyan = "#9AB5D1"
+white = "#c5dce9"
+
+[colors.bright]
+black = "#899aa3"
+red = "#5185BA"
+green = "#12A4E0"
+yellow = "#67AAD6"
+blue = "#28CAEF"
+magenta = "#64CEEE"
+cyan = "#9AB5D1"
+white = "#c5dce9"

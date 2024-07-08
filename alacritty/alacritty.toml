@@ -1,0 +1,40 @@
+# :: alacritty.toml ::
+
+import = ["~/.config/alacritty/colors.toml"]
+
+live_config_reload = true
+
+[window]
+decorations = "None"
+opacity = 0.75
+dynamic_padding = true
+dynamic_title = true
+padding = { x = 15, y = 15 }
+
+[font]
+normal = { family = "ComicMono", style = "Regular" }
+bold = { family = "JetBrainsMono NF", style = "Bold" }
+italic = { family = "JetBrainsMono NF", style = "Italic" }
+bold_italic = { family = "JetBrainsMono NF", style = "Bold Italic" }
+builtin_box_drawing = true
+size = 8.8
+
+[cursor]
+blink_interval = 550
+unfocused_hollow = false
+thickness = 0.15
+style = "Beam"
+
+[selection]
+save_to_clipboard = true
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[bell]
+animation = "Linear"
+duration = 0
+
+[shell]
+program = "/bin/zsh"
