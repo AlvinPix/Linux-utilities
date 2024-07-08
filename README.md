@@ -2,7 +2,7 @@
 
 ![Imagen](https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg)
 
-> In the world of technology,
+In the world of technology,
 a system rises up bravely,
 It's Linux, open source and uncensored,
 that offers users freedom and autonomy.
